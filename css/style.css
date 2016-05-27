@@ -1,0 +1,9 @@
+.navbar-inverse {background-color: #005F94;}
+.nav-inverse a {color:white;}
+
+.jumbotron {
+background-image: url("/img/kelly-lisa.jpeg");
+background-size: cover;}
+
+.trans {background-image: url("/img/transpBlack50.png");
+background-size: cover; color:white;}
